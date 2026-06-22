@@ -1,2 +1,27 @@
 # amogh-macropad
-Amogh's Macropad for the Hackpad Mission
+
+Hi, I'm Amogh and this is my macropad! More like MacroCAD, since it lets you copy, paste, and undo on the fly. I called it the DinoPad because it's fairly basic, like something you might see in prehistoric times. 
+
+
+## At a Glance
+![Render of Macropad](images/render.png)
+
+![Schematic Diagram](images/schematic.png)
+
+![PCB Layout](images/pcb.layout.png)
+
+![3D Case](images/3d_case.png)
+
+
+## Bill of Materials 
+| Component | Quantity Used | Source 
+------------------------------------
+| **Seeed Studio XIAO RP2040** | 1 | Seeed XIAO RP2040 microcontroller (1) |
+| **Mechanical Switches** | 3 | MX-style mechanical switches (16) |
+| **Keycaps** | 3 | Blank DSA keycaps (16) | 
+| **Diodes** | 3 | 1N4148 through-hole diodes (20) | 
+| **Case Screws** | 4 | M3×16mm screws (6) | 
+| **Heatset Inserts** | 4 |
+| **Custom PCB** | 1 | 
+| **3D Printed Top Plate** | 1 | 
+| **3D Printed Bottom Case** | 1 | 
