@@ -4,12 +4,16 @@ Hi, I'm Amogh and this is my macropad! More like MacroCAD, since it lets you cop
 
 
 ## At a Glance
+### Render of Macropad
 ![Render of Macropad](images/render.png)
 
+### Schematic Diagram
 ![Schematic Diagram](images/schematic.png)
 
-![PCB Layout](images/pcb.layout.png)
+### PCB Layout
+![PCB Layout](images/pcb_layout.png)
 
+### 3D Case
 ![3D Case](images/3d_case.png)
 
 
@@ -21,7 +25,7 @@ Hi, I'm Amogh and this is my macropad! More like MacroCAD, since it lets you cop
 | **Keycaps** | 3 | Blank DSA keycaps (16) | 
 | **Diodes** | 3 | 1N4148 through-hole diodes (20) | 
 | **Case Screws** | 4 | M3×16mm screws (6) | 
-| **Heatset Inserts** | 4 |
-| **Custom PCB** | 1 | 
-| **3D Printed Top Plate** | 1 | 
-| **3D Printed Bottom Case** | 1 | 
+| **Heatset Inserts** | 4 | M3×5×4mm heatset inserts (6) |
+| **Custom PCB** | 1 | Design to be ordered
+| **3D Printed Top Plate** | 1 | Design to be 3D printed
+| **3D Printed Bottom Case** | 1 | Design to be 3D printed
