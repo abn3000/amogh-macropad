@@ -1,6 +1,6 @@
 # amogh-macropad
 
-Hi, I'm Amogh and this is my macropad! More like MacroCAD, since it lets you copy, paste, and undo on the fly. I called it the DinoPad because it's simple and good for getting to business, like in the good old days...
+Hi, I'm Amogh, and this is my macropad! More like MacroCAD, since it lets you copy, paste, and undo on the fly. I called it the DinoPad because it's simple and good for getting straight to business, which I'm sure was appreciated in the good old days.
 
 
 ## At a Glance
