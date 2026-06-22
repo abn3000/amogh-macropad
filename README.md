@@ -1,6 +1,6 @@
-# amogh-macropad
+# HackCAD
 
-Hi, I'm Amogh, and this is my macropad! More like MacroCAD, since it lets you copy, paste, and undo on the fly. I called it the DinoPad because it's simple and good for getting straight to business, which I'm sure was appreciated in the good old days.
+Hi, I'm Amogh, and this is my macropad! More like MacroCAD, since it lets you copy, paste, and undo on the fly. That's why I named it the HackCAD. With copy, paste, and undo, there's nothing to distract you from the constant chipping away at your Fusion, Onshape, Solidworks, or other software of your choice. Inspired by the tight deadlines in FRC.
 
 
 ## At a Glance
