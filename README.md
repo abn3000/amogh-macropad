@@ -17,23 +17,15 @@ Hi, I'm Amogh and this is my macropad! More like MacroCAD, since it lets you cop
 ![3D Case](images/3d_case.png)
 
 
-## Bill of Materials 
-| Component | Quantity Used | Source 
-------------------------------------
-| **Seeed Studio XIAO RP2040** | 1 | Seeed XIAO RP2040 microcontroller (1) |
-
-| **Mechanical Switches** | 3 | MX-style mechanical switches (16) |
-
-| **Keycaps** | 3 | Blank DSA keycaps (16) | 
-
-| **Diodes** | 3 | 1N4148 through-hole diodes (20) | 
-
-| **Case Screws** | 4 | M3×16mm screws (6) | 
-
-| **Heatset Inserts** | 4 | M3×5×4mm heatset inserts (6) |
-
-| **Custom PCB** | 1 | Design to be ordered
-
-| **3D Printed Top Plate** | 1 | Design to be 3D printed
-
-| **3D Printed Bottom Case** | 1 | Design to be 3D printed
+## Bill of Materials
+| Component | Quantity Used | Source | Purpose |
+| :--- | :---: | :--- | :--- |
+| **Seeed Studio XIAO RP2040** | 1 | Seeed XIAO RP2040 (1) | Main microcontroller |
+| **Mechanical Switches** | 3 | MX-style switches (16) | Input keys |
+| **Keycaps** | 3 | Blank DSA keycaps (16) | Keycaps |
+| **Diodes** | 3 | 1N4148 diodes (20) | Prevent ghosting |
+| **Case Screws** | 4 | M3×16mm screws (6) | Secure top plate |
+| **Heatset Inserts** | 4 | M3×5×4mm inserts (6) | Mount to case |
+| **Custom PCB** | 1 | JLCPCB | Main logic board |
+| **3D Printed Top Plate** | 1 | Printing Legion | Switch mounting |
+| **3D Printed Bottom Case** | 1 | Printing Legion | Housing |
